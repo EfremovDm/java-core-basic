@@ -1,10 +1,10 @@
 package ru.efremovdm;
 
-import ru.efremovdm.Lesson4.Lesson4;
+import ru.efremovdm.Lesson5.Lesson5;
 
 public class Main {
 
     public static void main(String[] args) {
-        Lesson4.main(args);
+        Lesson5.main();
     }
 }
